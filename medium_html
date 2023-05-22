@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medium Website</title>
+    <link rel="stylesheet" href="stile-css-medium.css" type="text/css">  
+</head>
+<header class="flex-geader">
+    <div id="logo">
+        <img src="https://www.logo.wine/a/logo/Medium_(website)/Medium_(website)-Logo.wine.svg" alt="logo-medium" id="logo" style="width: 100px; height: 50px;">
+    </div>
+<div id ="buttons-icons">
+    <a href="https://www.flaticon.com/free-icons/search" title="search" id="free-icons">
+    <img src="C:\Users\casal\Downloads\search.png" style="width: 20px; height: 20px;"></a>
+    <a href="https://www.flaticon.com/free-icons/bookmark" title="bookmark icons">
+        <img src="C:\Users\casal\Downloads\bookmark (1).png" style="width: 20px; height: 20px;"></a>
+        <a href="https://www.flaticon.com/free-icons/notification" title="notification icons">
+            <img src="C:\Users\casal\Downloads\bell.png" style="width: 20px; height: 20px;"></a>
+    <button type="button"class="button1">Resume membership</button>
+    <button type="button" id="button2" style="border-radius: 50px; background-color: red;">T</button>
+</div>
+</header>
+<body>
+    <main class="flex-container">
+        <div  id="column-left">
+             
+  
+            
+
+                <article class="flex-container">
+                    <div class="testo-articolo">
+                    <h3><a href="">Kolby Sisk</a> in <a href="">Udacity Eng & Data</a></h3>
+                    <h1><a href="">React state management in 2022 -- Return of the Redux</a></h1>
+                    <p class="paragrafo-articolo"> At the beginning of the year if you told me I'd be publishing a recommendation to use Redux I would have laughed in your face. 
+                        Yet here...</p>
+                    <footer class="flex-footer">
+                        <div class="data-ora">
+                        <p>Dec 3 - 4 min reading - <button class="button1">React</button> - Popular on medium 
+        
+                    </p></div>
+                        <div class="icone-footer">
+                            <a href="https://www.flaticon.com/free-icons/bookmark" title="bookmark icons"> <img src="C:\Users\casal\Downloads\bookmark (3).png" style="width: 20px; height:20px;"></a>
+                            <a href="https://www.flaticon.com/free-icons/suspension" title="suspension icons" class="button-article">
+                        <img src="C:\Users\casal\Downloads\three-dots.png" style="width: 20px; height:20px;"></a></p>
+                        </div>
+                   jnh     </footer>
+                        </div>
+                        <div class="immagine-articolo">
+                            <img class="flex-image-article" src="https://miro.medium.com/v2/resize:fill:168:168/1*RJO7hJQ9wLAJ0LQUQEWPLw.png">
+
+                        </div>
+
+            
+
+                </article>
+
+                <article class="flex-container">
+                    <div class="testo-articolo">
+                    <h3><a href="">Kolby Sisk</a> in <a href="">Udacity Eng & Data</a></h3>
+                    <h1><a href="">React 18 new features</a></h1>
+                    <p class="paragrafo-articolo">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                    <footer class="flex-footer">
+                        <div class="data-ora">
+                      <p>Dec 3 - 4 min reading - <button class="button1">React</button> - Popular on medium 
+                      
+                        </p></div>
+                        <div class="icone-footer">
+                             <a href="https://www.flaticon.com/free-icons/bookmark" title="bookmark icons">
+                             <img src="C:\Users\casal\Downloads\bookmark (3).png" style="width: 20px; height:20px;"></a>
+                             <a href="https://www.flaticon.com/free-icons/suspension" title="suspension icons" class="button-article">
+                            <img src="C:\Users\casal\Downloads\three-dots.png" style="width: 20px; height:20px;"></a></p>
+                            </div>
+                        </footer>
+                        </div>
+                        <div class="immagine-articolo">
+                            <img class="flex-image-article" src="https://miro.medium.com/v2/resize:fill:168:168/1*ci0fT9v5h2JguVzZwg5jtQ.png">
+
+                        </div>
+
+                </article>
+
+                <article class="flex-container">
+                    <div class="testo-articolo">
+                    <h3><a href="">John Smith</a> in <a href="">AI Blog</a></h3>
+                    <h1><a href="">15 Best Apps ideas for Startup</a></h1>
+                    <p class="paragrafo-articolo">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                    <footer class="flex-footer">
+                        <div class="data-ora">
+                        <p>Dec 3 - 4 min reading - <button class="button1">React</button> - Popular on medium</p> 
+                        </div>
+                        <div class="icone-footer">
+                            <a href="https://www.flaticon.com/free-icons/bookmark" title="bookmark icons"></a>
+                            <img src="C:\Users\casal\Downloads\bookmark (3).png" style="width: 20px; height:20px;"></a>
+                            <a href="https://www.flaticon.com/free-icons/suspension" title="suspension icons" class="button-article">
+                            <img src="C:\Users\casal\Downloads\three-dots.png" style="width: 20px; height:20px;"></a>
+                            </div>
+                        </footer>
+                        
+                        </div>
+                        <div class="immagine-articolo">
+                            <img class="flex-image-article" src="https://miro.medium.com/v2/resize:fill:168:168/1*vTZCFTXzDqTYIzgJFCTCqQ.jpeg">
+
+                        </div>
+
+                </article>
+
+
+                <article class="flex-container">
+                    <div class="testo-articolo">
+                    <h3><a href="">Anne</a> in <a>Nerd for Tech</a></h3>
+                    <h1><a href="">Understanding re-redirecting</a></h1>
+                    <p class="paragrafo-articolo">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                    <footer class="flex-footer">
+                        <div class="data-ora">
+                        <p>Dec 3 - 4 min reading - <button class="button1">React</button> - Popular on medium</p>
+                        </div>
+                            <div class="icone-footer">
+                            <a href="https://www.flaticon.com/free-icons/bookmark" title="bookmark icons"></a>
+                            <img src="C:\Users\casal\Downloads\bookmark (3).png" style="width: 20px; height:20px;"></a>
+                            <a href="https://www.flaticon.com/free-icons/suspension" title="suspension icons" class="button-article">
+                            <img src="C:\Users\casal\Downloads\three-dots.png" style="width: 20px; height:20px;"></a></p>
+                        </div>
+                        </footer> 
+                         </div>
+                        <div class="immagine-articolo">
+                            <img class="flex-image-article" src="https://miro.medium.com/v2/resize:fill:168:168/0*r0CU4Xbpp57p1fJM">
+
+                        </div>
